@@ -19,7 +19,7 @@ npm install getscreenmedia
 
 ## How to use it
 
-First build and install a domain-specific extension for [Chrome](https://github.com/otalk/getScreenMedia/tree/master/chrome-extension-sample) or/and [Firefox](https://github.com/otalk/getScreenMedia/tree/master/firefox-extension-sample).
+First build and install a domain-specific extension for [Chrome](https://github.com/otalk/getScreenMedia/tree/master/chrome-extension-sample). Fire fox requires no extension or whitelisting anymore.
 
 Use the snippet below to get a screen stream, similar to [getUserMedia](https://github.com/otalk/getUserMedia).
 ```js
